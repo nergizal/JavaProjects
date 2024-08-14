@@ -1,2 +1,2 @@
 # MyJavaCodes
-1.sınıf 2.dönem java dersi kodlar ve projeler
+1st grade 2nd term java course codes and projects
